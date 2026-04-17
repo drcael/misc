@@ -1,1 +1,1 @@
-# misc
+*** YGO Card Database & Sources ***
